@@ -6,7 +6,7 @@ branch-defaults:
     environment: prod
 environment-defaults:
   prod:
-    branch: null
+    branch: main
     repository: null
 global:
   application_name: image-filter-starter-code
